@@ -1,3 +1,32 @@
 .blog{
     background-color: gray;
+    border: rgb(66, 66, 66) solid 3px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.blog-title{
+    text-align: center;
+    background-color: hotpink;
+    border: rgb(255, 0, 149) solid 4px;
+    border-radius: 10px;
+    margin: 0px 350px;
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.image{
+    border: wheat 3px solid;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.blog p{
+   text-align: justify;
 }
