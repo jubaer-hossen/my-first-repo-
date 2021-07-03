@@ -1,3 +1,14 @@
+#title{
+    background-color: indigo;
+    border: solid rgb(135, 2, 230) 3px;
+    border-radius: 10px;
+    margin: 0px 50px;
+    text-align: center;
+    font-size: 46px;
+    color: white;
+    padding: 10px 0px;
+}
+
 .blog{
     background-color: gray;
     border: rgb(66, 66, 66) solid 3px;
